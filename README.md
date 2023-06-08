@@ -7,7 +7,7 @@ We wanted to make a web app that would enable users to search or post different 
 Whether you're looking for a house party, art exhibition, or social gathering, NightOwl provides a platform for organizing and promoting events of all sizes. By connecting event organizers with attendees, NightOwl aims to foster meaningful connections through memorable experiences.
 
 ## Landing Page
-![](https://github.com/gambitpolizei-ga/sole-stash/blob/main/public/images/screenshot-homepage.png)
+![](https://github.com/johntrinhvu/NightOwl/assets/129716310/a1655976-e219-4aab-b44d-a68e30d2668f)
 
 ## Post an Event Page
 ![](https://github.com/gambitpolizei-ga/sole-stash/blob/main/public/images/screenshot-add-sneaker-one.png)
